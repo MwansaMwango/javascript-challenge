@@ -22,6 +22,5 @@ The user can to set multiple filters and search for UFO sightings using the foll
 - CSS
 - D3.js 
 
-## Deployment:
-
-
+## Deployment Link:
+https://mwansamwango.github.io/javascript-challenge/
